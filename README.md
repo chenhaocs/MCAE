@@ -1,6 +1,6 @@
 
 
-# Mapping results display and comparison:
+# Mapping result display and comparison:
 
 - 0.6-meter MCAE-based Land Cover Map: [http://pubrs.com/](http://pubrs.com/)  or [http://pubrs.com/MCAE/](http://pubrs.com/MCAE/)
 
