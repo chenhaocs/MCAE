@@ -2,9 +2,9 @@
 
 # Mapping result display and comparison:
 
-- 0.6-meter MCAE-based Land Cover Map: [http://pubrs.com/](http://pubrs.com/)  or [http://pubrs.com/MCAE/](http://pubrs.com/MCAE/)
+- 0.6-meter MCAE-based land cover maps: [http://pubrs.com/](http://pubrs.com/)  or [http://pubrs.com/MCAE/](http://pubrs.com/MCAE/)
 
-- 1-meter SinoLC-1 Land Cover Map: [http://pubrs.com/SinoLC-1/](http://pubrs.com/SinoLC-1/)
+- 1-meter SinoLC-1 land cover maps: [http://pubrs.com/SinoLC-1/](http://pubrs.com/SinoLC-1/)
 
 Note: The website bandwidth is limited, please be patient and wait for the loading time to arrive.
 
@@ -13,8 +13,8 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 ![1-meter SinoLC-1 Land Cover Map](./fig/LC-SinoLC-1.png "1-meter SinoLC-1 Land Cover Map")
 
 
-# 0.6-meter MCAE-based Land Cover Maps of five cities in China：
+# 0.6-meter MCAE-based land cover maps for five cities in China：
 
 
-# 0.6-meter dense mask annotations of five cities in China：
+# 0.6-meter dense mask annotations of for cities in China：
 
