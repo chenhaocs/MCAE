@@ -16,5 +16,5 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 # 0.6-meter MCAE-based land cover maps for five cities in China：
 
 
-# 0.6-meter dense mask annotations of for cities in China：
+# 0.6-meter dense mask annotations for cities in China：
 
