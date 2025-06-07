@@ -15,7 +15,7 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 
 # 0.6-meter MCAE-based land cover maps for five cities in China
 
-Download the MCAE-based Land Cover Map and open it directly in QGIS. The color palette has already been embedded in the land cover map:
+Download the MCAE-based land cover map and open it directly in QGIS. The color palette has already been embedded in the land cover map:
 
 ![Open the land cover map in QGIS](./fig/disp-in-qgis.png "Open the land cover map in QGIS")
 
