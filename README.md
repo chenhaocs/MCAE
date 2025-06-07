@@ -29,3 +29,10 @@ Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https:
 - Download link for the dense mask annotations (continuously updated):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft), Extraction Code: rgft
+
+
+**Key Characteristics of the Dataset:**
+
+- **Large scale**: The dataset contains **5,111 image-label pairs**, each with a resolution of **1024×1024** at **0.6-meter spatial resolution**.  
+- **High representativeness and diversity**: The samples are collected from five major cities — **Beijing**, **Tianjin**, **Shanghai**, **Chengdu**, and **Guangzhou** — offering **diverse** and **representative** urban scenes.
+
