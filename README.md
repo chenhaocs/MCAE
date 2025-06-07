@@ -40,3 +40,4 @@ Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https:
 - **Large scale**: The dataset contains **5,111 image-label pairs**, each with a size of **1024×1024** at **0.6-meter spatial resolution**.  
 - **High representativeness and diversity**: The samples are collected from five major cities — **Beijing**, **Tianjin**, **Shanghai**, **Chengdu**, and **Guangzhou** — offering **diverse** and **representative** urban scenes.
 
+![Datset examples](./fig/disp-dataset.png "Dataset examples")
