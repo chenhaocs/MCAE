@@ -19,10 +19,15 @@ Download the MCAE-based land cover map and open it directly in QGIS. The color p
 
 ![Open the land cover map in QGIS](./fig/disp-in-qgis.png "Open the land cover map in QGIS")
 
-
 Download link for the MCAE-based land cover map (continuously updated and expanded):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b), Extraction Code: x87b
+
+**Key Characteristics of the Land Cover Maps:**
+
+- **High resolution and accuracy**: Overall accuracy > **85%** at **0.6-meter resolution**.  
+- **Extensive geographic coverage**: Covers **five major cities in China** — **Beijing**, **Tianjin**, **Shanghai**, **Chengdu**, and **Guangzhou**.
+
 
 # 0.6-meter dense mask annotations for cities in China
 
