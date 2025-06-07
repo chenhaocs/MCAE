@@ -20,7 +20,7 @@ Download the MCAE-based land cover map and open it directly in QGIS. The color p
 ![Open the land cover map in QGIS](./fig/disp-in-qgis.png "Open the land cover map in QGIS")
 
 
-Download link for the MCAE-based Land Cover Map (continuously updated and expanded):
+Download link for the MCAE-based land cover map (continuously updated and expanded):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b), Extraction Code: x87b
 
