@@ -13,7 +13,7 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 ![1-meter SinoLC-1 Land Cover Map](./fig/LC-SinoLC-1.png "1-meter SinoLC-1 Land Cover Map")
 
 
-# 0.6-meter MCAE-based land cover maps for five cities in China
+# 0.6-meter MCAE-based land cover maps
 
 Download the MCAE-based land cover map and open it directly in QGIS. The color palette has already been embedded in the land cover map:
 
@@ -29,7 +29,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https:
 - **Extensive geographic coverage**: Covers **five major cities in China** — **Beijing**, **Tianjin**, **Shanghai**, **Chengdu**, and **Guangzhou**.
 
 
-# 0.6-meter dense mask annotations for cities in China
+# 0.6-meter dense mask annotations
 
 Download link for the dense mask annotations (continuously updated):
 
