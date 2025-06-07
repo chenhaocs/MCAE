@@ -15,21 +15,20 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 
 # 0.6-meter MCAE-based land cover maps for five cities in China
 
-- Download the MCAE-based Land Cover Map and open it directly in QGIS. The color palette has already been embedded in the land cover map.
+Download the MCAE-based Land Cover Map and open it directly in QGIS. The color palette has already been embedded in the land cover map:
 
 ![Open the land cover map in QGIS](./fig/disp-in-qgis.png "Open the land cover map in QGIS")
 
 
-- Download link for the MCAE-based Land Cover Map (continuously updated and expanded)
+Download link for the MCAE-based Land Cover Map (continuously updated and expanded):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b), Extraction Code: x87b
 
 # 0.6-meter dense mask annotations for cities in China
 
-- Download link for the dense mask annotations (continuously updated):
+Download link for the dense mask annotations (continuously updated):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft), Extraction Code: rgft
-
 
 **Key Characteristics of the Dataset:**
 
