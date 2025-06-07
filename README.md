@@ -1,6 +1,6 @@
 
 
-# Mapping result display and comparison:
+# Mapping result display and comparison
 
 - 0.6-meter MCAE-based land cover maps: [http://pubrs.com/](http://pubrs.com/)  or [http://pubrs.com/MCAE/](http://pubrs.com/MCAE/)
 
@@ -13,18 +13,18 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 ![1-meter SinoLC-1 Land Cover Map](./fig/LC-SinoLC-1.png "1-meter SinoLC-1 Land Cover Map")
 
 
-# 0.6-meter MCAE-based land cover maps for five cities in China：
+# 0.6-meter MCAE-based land cover maps for five cities in China
 
 - Download the MCAE-based Land Cover Map and open it directly in QGIS. The color palette has already been embedded in the land cover map.
 
 ![Open the land cover map in QGIS](./fig/disp-in-qgis.png "Open the land cover map in QGIS")
 
 
-- Download link for the MCAE-based Land Cover Map (continuously updated):
+- Download link for the MCAE-based Land Cover Map (continuously updated and expanded)
 
 Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b), Extraction Code: x87b
 
-# 0.6-meter dense mask annotations for cities in China：
+# 0.6-meter dense mask annotations for cities in China
 
 - Download link for the dense mask annotations (continuously updated):
 
