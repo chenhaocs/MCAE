@@ -19,6 +19,8 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 
 ![Open the land cover map in QGIS](./fig/disp-in-qgis.png "Open the land cover map in QGIS")
 
+- Download link for the MCAE-based Land Cover Map (continuously updated):
+Baidu Netdisk: [https://pan.baidu.com/s/12xqWm1v8uXJszY4rNUd8pg?pwd=448w](https://pan.baidu.com/s/12xqWm1v8uXJszY4rNUd8pg?pwd=448w) Extraction Code: 448w
 
 # 0.6-meter dense mask annotations for cities in China：
 
