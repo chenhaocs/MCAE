@@ -22,7 +22,8 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 
 - Download link for the MCAE-based Land Cover Map (continuously updated):
 
-Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b)  Extraction Code: x87b
+Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b), Extraction Code: x87b
 
 # 0.6-meter dense mask annotations for cities in China：
 
+Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft), Extraction Code: rgft
