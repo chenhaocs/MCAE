@@ -8,10 +8,13 @@
 
 Note: The website bandwidth is limited, please be patient and wait for the loading time to arrive.
 
+**MCAE**: 
 ![0.6-meter MCAE-based Land Cover Map](./fig/LC-MCAE.png "0.6-meter MCAE-based Land Cover Map")
 
+**SinoLC-1**:
 ![1-meter SinoLC-1 Land Cover Map](./fig/LC-SinoLC-1.png "1-meter SinoLC-1 Land Cover Map")
 
+Li Z, He W, Cheng M, et al. SinoLC-1: The first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data[J]. Earth System Science Data Discussions, 2023, 2023: 1-38.
 
 # 0.6-meter MCAE-based land cover maps
 
