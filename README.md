@@ -26,4 +26,6 @@ Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https:
 
 # 0.6-meter dense mask annotations for cities in China：
 
+- Download link for the dense mask annotations (continuously updated):
+
 Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft), Extraction Code: rgft
