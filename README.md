@@ -38,7 +38,7 @@ Download link for the dense mask annotations (continuously updated):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft), Extraction Code: rgft
 
-## Key Characteristics of the Dataset
+**Key Characteristics of the Dataset:**
 
 - **(1) Large-Scale Dense Annotations:**  
   The dataset contains **5,116 image-label pairs with dense mask annotations**, each with a resolution of 1024×1024 pixels at 0.6-meter spatial resolution, resulting in approximately **3.74 billion labeled pixels**.
