@@ -49,5 +49,8 @@ Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https:
 - **(3) High Representativeness and Diversity:**  
   Collected using the MCAE framework, the dataset encompasses a broad range of urban scenes across **five major Chinese cities — Beijing, Tianjin, Shanghai, Chengdu, and Guangzhou** — ensuring strong **geographical diversity and representativeness** of complex urban environments.
 
+**Dense annotations:**
+![Dense ann](./fig/disp-dense-ann.png "Dense ann")
 
-![Datset examples](./fig/disp-dataset.png "Dataset examples")
+**Sparse annotations:**
+![Sparse ann](./fig/disp-sparse-ann.png "Sparse ann")
