@@ -40,10 +40,10 @@ Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https:
 
 **Key Characteristics of the Dataset:**
 
-- **Large-Scale Dense Mask Annotations:**  
+- **Dense Mask Annotations:**  
   The dataset contains **5,116 image-label pairs with dense mask annotations**, each with a resolution of 1024×1024 pixels at 0.6-meter spatial resolution, resulting in approximately **3.74 billion labeled pixels**.
 
-- **Large-Scale Sparse Mask Annotations:**  
+- **Sparse Mask Annotations:**  
   It also includes **50,771 image-label pairs with sparse mask annotations**, each of the same size and resolution, totaling approximately **10.27 billion labeled pixels**.
 
 - **Large Dataset Scale**: The combined dataset size of dense and sparse mask annotations is about **8 times** that of GID[2] and FBP[3].
