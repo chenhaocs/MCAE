@@ -46,10 +46,14 @@ Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https:
 - **Large-Scale Sparse Mask Annotations:**  
   It also includes **50,771 image-label pairs with sparse mask annotations**, each of the same size and resolution, totaling approximately **10.27 billion labeled pixels**.
 
-- **Large Dataset Scale**: The combined dataset size of Dense and sparse mask annotations is about 8 times that of GID and FBP.
+- **Large Dataset Scale**: The combined dataset size of Dense and sparse mask annotations is about **8 times** that of GID[1] and FBP[2].
 
 - **High Representativeness and Diversity:**  
   Collected using the MCAE framework, the dataset encompasses a broad range of urban scenes across **five major Chinese cities — Beijing, Tianjin, Shanghai, Chengdu, and Guangzhou** — ensuring strong **geographical diversity and representativeness** of complex urban environments.
+
+[1] Tong X Y, Xia G S, Lu Q, et al. Land-cover classification with high-resolution remote sensing images using transferable deep models[J]. Remote Sensing of Environment, 2020, 237: 111322.
+
+[2] Tong X Y, Xia G S, Zhu X X. Enabling country-scale land cover mapping with meter-resolution satellite imagery[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 196: 178-196.
 
 **Dense annotations:**
 ![Dense ann](./fig/disp-dense-ann.png "Dense ann")
