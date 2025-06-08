@@ -2,7 +2,7 @@
 
 # Mapping result display and comparison
 
-- 0.6-meter MCAE-based land cover maps: [http://pubrs.com/](http://pubrs.com/)  or [http://pubrs.com/MCAE/](http://pubrs.com/MCAE/)
+- 0.6-meter MCAE-based land cover maps: [http://pubrs.com/MCAE/](http://pubrs.com/MCAE/) or [http://pubrs.com/](http://pubrs.com/) 
 
 - 1-meter SinoLC-1 land cover maps: [http://pubrs.com/SinoLC-1/](http://pubrs.com/SinoLC-1/)
 
