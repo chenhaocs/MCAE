@@ -11,10 +11,10 @@ Note: The website bandwidth is limited, please be patient and wait for the loadi
 **MCAE**: 
 ![0.6-meter MCAE-based Land Cover Map](./fig/LC-MCAE.png "0.6-meter MCAE-based Land Cover Map")
 
-**SinoLC-1**:
+**SinoLC-1**[1]:
 ![1-meter SinoLC-1 Land Cover Map](./fig/LC-SinoLC-1.png "1-meter SinoLC-1 Land Cover Map")
 
-Li Z, He W, Cheng M, et al. SinoLC-1: The first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data[J]. Earth System Science Data Discussions, 2023, 2023: 1-38.
+[1] Li Z, He W, Cheng M, et al. SinoLC-1: The first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data[J]. Earth System Science Data Discussions, 2023, 2023: 1-38.
 
 # 0.6-meter MCAE-based land cover maps
 
@@ -46,14 +46,14 @@ Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https:
 - **Large-Scale Sparse Mask Annotations:**  
   It also includes **50,771 image-label pairs with sparse mask annotations**, each of the same size and resolution, totaling approximately **10.27 billion labeled pixels**.
 
-- **Large Dataset Scale**: The combined dataset size of dense and sparse mask annotations is about **8 times** that of GID[1] and FBP[2].
+- **Large Dataset Scale**: The combined dataset size of dense and sparse mask annotations is about **8 times** that of GID[2] and FBP[3].
 
 - **High Representativeness and Diversity:**  
   Collected using the MCAE framework, the dataset encompasses a broad range of urban scenes across **five major Chinese cities — Beijing, Tianjin, Shanghai, Chengdu, and Guangzhou** — ensuring strong **geographical diversity and representativeness** of complex urban environments.
 
-[1] Tong X Y, Xia G S, Lu Q, et al. Land-cover classification with high-resolution remote sensing images using transferable deep models[J]. Remote Sensing of Environment, 2020, 237: 111322.
+[2] Tong X Y, Xia G S, Lu Q, et al. Land-cover classification with high-resolution remote sensing images using transferable deep models[J]. Remote Sensing of Environment, 2020, 237: 111322.
 
-[2] Tong X Y, Xia G S, Zhu X X. Enabling country-scale land cover mapping with meter-resolution satellite imagery[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 196: 178-196.
+[3] Tong X Y, Xia G S, Zhu X X. Enabling country-scale land cover mapping with meter-resolution satellite imagery[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 196: 178-196.
 
 **Dense annotations:**
 ![Dense ann](./fig/disp-dense-ann.png "Dense ann")
