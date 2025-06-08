@@ -32,7 +32,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1xCuxAsA7jEZBnDnxU03Gjg?pwd=x87b](https:
 - **Extensive geographic coverage**: Covers **five major cities in China** — **Beijing**, **Tianjin**, **Shanghai**, **Chengdu**, and **Guangzhou**.
 
 
-# 0.6-meter dense mask annotations
+# 0.6-meter dense+sparse mask annotations
 
 Download link for the dense mask annotations (continuously updated):
 
