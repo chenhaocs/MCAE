@@ -46,7 +46,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https:
 - **Large-Scale Sparse Mask Annotations:**  
   It also includes **50,771 image-label pairs with sparse mask annotations**, each of the same size and resolution, totaling approximately **10.27 billion labeled pixels**.
 
-- **Large Dataset Scale**: The combined dataset size of Dense and sparse mask annotations is about **8 times** that of GID[1] and FBP[2].
+- **Large Dataset Scale**: The combined dataset size of dense and sparse mask annotations is about **8 times** that of GID[1] and FBP[2].
 
 - **High Representativeness and Diversity:**  
   Collected using the MCAE framework, the dataset encompasses a broad range of urban scenes across **five major Chinese cities — Beijing, Tianjin, Shanghai, Chengdu, and Guangzhou** — ensuring strong **geographical diversity and representativeness** of complex urban environments.
