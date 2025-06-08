@@ -40,13 +40,13 @@ Baidu Netdisk: [https://pan.baidu.com/s/1dluzGeUcMmJqqECeKgbipQ?pwd=rgft](https:
 
 **Key Characteristics of the Dataset:**
 
-- **(1) Large-Scale Dense Annotations:**  
+- **Large-Scale Dense Mask Annotations:**  
   The dataset contains **5,116 image-label pairs with dense mask annotations**, each with a resolution of 1024×1024 pixels at 0.6-meter spatial resolution, resulting in approximately **3.74 billion labeled pixels**.
 
-- **(2) Large-Scale Sparse Annotations:**  
+- **Large-Scale Sparse Mask Annotations:**  
   It also includes **50,771 image-label pairs with sparse mask annotations**, each of the same size and resolution, totaling approximately **10.27 billion labeled pixels**.
 
-- **(3) High Representativeness and Diversity:**  
+- **High Representativeness and Diversity:**  
   Collected using the MCAE framework, the dataset encompasses a broad range of urban scenes across **five major Chinese cities — Beijing, Tianjin, Shanghai, Chengdu, and Guangzhou** — ensuring strong **geographical diversity and representativeness** of complex urban environments.
 
 **Dense annotations:**
