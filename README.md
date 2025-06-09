@@ -38,7 +38,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp](https:
 
 Download link for the dense mask annotations (continuously updated):
 
-Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA?pwd=qr71](https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA?pwd=qr71), Extraction Code: qr71
+Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA)
 
 **Key Characteristics of the Dataset:**
 
