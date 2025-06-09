@@ -56,9 +56,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA?pwd=qr71](https:
 [3] Tong X Y, Xia G S, Zhu X X. Enabling country-scale land cover mapping with meter-resolution satellite imagery[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 196: 178-196.
 
 **Dense annotations:**
-![Dense ann](./fig/disp-dense-ann.png "Dense ann")
-
 <img src="./fig/disp-dense-ann.png" alt="Dense ann" width="80%">
 
 **Sparse annotations:**
-![Sparse ann](./fig/disp-sparse-ann.png "Sparse ann")
+<img src="./fig/disp-sparse-ann.png" alt="Sparse ann" width="80%">
