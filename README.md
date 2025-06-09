@@ -7,8 +7,7 @@
 - 1-meter SinoLC-1 land cover maps: [http://pubrs.com/SinoLC-1/](http://pubrs.com/SinoLC-1/)
 
 > The website bandwidth is limited. Please be patient and allow some time for the content to load.  
-> Now supports both desktop and mobile browsers, including direct access via WeChat.
-
+> Now supports both desktop and mobile browsers, and direct access via WeChat.
 
 **MCAE**: 
 ![0.6-meter MCAE-based Land Cover Map](./fig/LC-MCAE.png "0.6-meter MCAE-based Land Cover Map")
@@ -17,6 +16,7 @@
 ![1-meter SinoLC-1 Land Cover Map](./fig/LC-SinoLC-1.png "1-meter SinoLC-1 Land Cover Map")
 
 [1] Li Z, He W, Cheng M, et al. SinoLC-1: The first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data[J]. Earth System Science Data Discussions, 2023, 2023: 1-38.
+
 
 # 0.6-meter MCAE-based land cover maps
 
