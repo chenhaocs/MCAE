@@ -6,7 +6,11 @@
 
 - 1-meter SinoLC-1 land cover maps: [http://pubrs.com/SinoLC-1/](http://pubrs.com/SinoLC-1/)
 
-**Note**: The website bandwidth is limited, please be patient and wait for the loading time to arrive.
+**Note**: Sure! Here's the English translation with your requested addition:
+
+> The website bandwidth is limited. Please be patient and allow some time for the content to load.  
+> Now supports both desktop and mobile browsers, including direct access via WeChat.
+
 
 **MCAE**: 
 ![0.6-meter MCAE-based Land Cover Map](./fig/LC-MCAE.png "0.6-meter MCAE-based Land Cover Map")
