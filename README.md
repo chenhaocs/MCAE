@@ -58,5 +58,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA?pwd=qr71](https:
 **Dense annotations:**
 ![Dense ann](./fig/disp-dense-ann.png "Dense ann")
 
+<img src="./fig/disp-dense-ann.png" alt="Dense ann" width="80%">
+
 **Sparse annotations:**
 ![Sparse ann](./fig/disp-sparse-ann.png "Sparse ann")
