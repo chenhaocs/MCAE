@@ -6,8 +6,6 @@
 
 - 1-meter SinoLC-1 land cover maps: [http://pubrs.com/SinoLC-1/](http://pubrs.com/SinoLC-1/)
 
-**Note**: Sure! Here's the English translation with your requested addition:
-
 > The website bandwidth is limited. Please be patient and allow some time for the content to load.  
 > Now supports both desktop and mobile browsers, including direct access via WeChat.
 
