@@ -15,7 +15,7 @@
 **SinoLC-1**[1]:
 ![1-meter SinoLC-1 Land Cover Map](./fig/LC-SinoLC-1.png "1-meter SinoLC-1 Land Cover Map")
 
-[1] Li Z, He W, Cheng M, et al. SinoLC-1: The first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data[J]. Earth System Science Data Discussions, 2023, 2023: 1-38.
+> [1] Li Z, He W, Cheng M, et al. SinoLC-1: The first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data[J]. Earth System Science Data Discussions, 2023, 2023: 1-38.
 
 
 # 0.6-meter MCAE-based land cover maps
@@ -53,9 +53,9 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.bai
 - **High Representativeness and Diversity:**  
   Collected using the MCAE framework, the dataset encompasses a broad range of urban scenes across **five major Chinese cities — Beijing, Tianjin, Shanghai, Chengdu, and Guangzhou** — ensuring strong **geographical diversity and representativeness** of complex urban environments.
 
-[2] Tong X Y, Xia G S, Lu Q, et al. Land-cover classification with high-resolution remote sensing images using transferable deep models[J]. Remote Sensing of Environment, 2020, 237: 111322.
+> [2] Tong X Y, Xia G S, Lu Q, et al. Land-cover classification with high-resolution remote sensing images using transferable deep models[J]. Remote Sensing of Environment, 2020, 237: 111322.
 
-[3] Tong X Y, Xia G S, Zhu X X. Enabling country-scale land cover mapping with meter-resolution satellite imagery[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 196: 178-196.
+> [3] Tong X Y, Xia G S, Zhu X X. Enabling country-scale land cover mapping with meter-resolution satellite imagery[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023, 196: 178-196.
 
 **Dense annotations:**
 
