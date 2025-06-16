@@ -36,7 +36,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp](https:
 
 # MCAE-D: 0.6-meter dataset
 
-Download link for the dense mask annotations (continuously updated):
+Download link for the MCAE-D (continuously updated):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA)
 
