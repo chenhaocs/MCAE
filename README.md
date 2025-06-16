@@ -34,7 +34,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp](https:
 - **Extensive geographic coverage**: Covers **five major cities in China** — **Beijing**, **Tianjin**, **Shanghai**, **Chengdu**, and **Guangzhou**.
 
 
-# 0.6-meter dataset - MCAE-D
+# MCAE-D: 0.6-meter dataset
 
 Download link for the dense mask annotations (continuously updated):
 
