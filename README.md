@@ -18,7 +18,7 @@
 > [1] Li Z, He W, Cheng M, et al. SinoLC-1: The first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data[J]. Earth System Science Data Discussions, 2023, 2023: 1-38.
 
 
-# 0.6-meter MCAE-based land cover maps
+# MCAE-based land cover maps with 0.6-meter resolution
 
 Download the MCAE-based land cover map and open it directly in QGIS. The color palette has already been embedded in the land cover map:
 
