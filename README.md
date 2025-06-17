@@ -36,7 +36,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp](https:
 
 # HiCity-LC: 0.6-meter dataset with dense+sparse mask annotations
 
-Download link for the MCAE-D (continuously updated):
+Download link for the HiCity-LC (continuously updated):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA)
 
