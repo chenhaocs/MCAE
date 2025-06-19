@@ -24,7 +24,7 @@ Download the HiCity-Map and open it directly in QGIS. The color palette has alre
 
 ![Open the land cover map in QGIS](./fig/disp-in-qgis.png "Open the land cover map in QGIS")
 
-Download link for the MCAE-based land cover map (continuously updated and expanded):
+Download link for the HiCity-Map (continuously updated and expanded):
 
 Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp](https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp), Extraction Code: fjvp
 
