@@ -20,7 +20,7 @@
 
 # HiCity-Map: MCAE-based land cover maps with 0.6-meter resolution
 
-Download the MCAE-based land cover map and open it directly in QGIS. The color palette has already been embedded in the land cover map:
+Download the HiCity-Map and open it directly in QGIS. The color palette has already been embedded in the land cover map:
 
 ![Open the land cover map in QGIS](./fig/disp-in-qgis.png "Open the land cover map in QGIS")
 
@@ -48,7 +48,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.bai
 - **Sparse Mask Annotations:**  
   It also includes **50,771 image-label pairs with sparse mask annotations**, each of the same size and resolution, totaling approximately **10.27 billion labeled pixels**.
 
-- **Large Dataset Scale**: The combined dataset size of dense and sparse mask annotations is about **8 times** that of GID[2] and Five-Billion-Pixels[3].
+- **Large Dataset Scale**: The total dataset size exceeds **100GB**, with the combined dense and sparse mask annotations being approximately **8 times larger** than those in GID [2] and Five-Billion-Pixels [3].
 
 - **High Representativeness and Diversity:**  
   Collected using the MCAE framework, the dataset encompasses a broad range of urban scenes across **five major Chinese cities — Beijing, Tianjin, Shanghai, Chengdu, and Guangzhou** — ensuring strong **geographical diversity and representativeness** of complex urban environments.
