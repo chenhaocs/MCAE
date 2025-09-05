@@ -70,7 +70,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.bai
 </div>
 
 
-# 0.6-meter resolution images of five cities
+# 0.6-meter resolution images covering five cities
 
 Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw](https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw?pwd=MCAE), Extraction Code: MCAE
 
