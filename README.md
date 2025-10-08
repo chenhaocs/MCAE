@@ -98,7 +98,6 @@ If you find this project useful, please consider citing:
 }
 ```
 
-<br>
 > ⚠️ **使用须知 / Usage Notice**  
 > 如使用、引用、转载、转存以上任何数据，请标注出处。如有疑问请联系 chenhao20 [AT] whu.edu.cn。  
 > Please acknowledge the source when using, citing, reproducing, or redistributing any of the above data. For inquiries, contact chenhao20 [AT] whu.edu.cn.
