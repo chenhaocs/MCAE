@@ -1,6 +1,7 @@
 
 <h1 align="center">Mask Clustering-based Annotation Engine for Large-Scale Submeter Land Cover Mapping (MCAE)</h1>
 
+
 ## (1) Mapping result display and comparison
 
 - 0.6-meter MCAE-based land cover maps: [http://pubrs.com/MCAE/](http://pubrs.com/MCAE/) or [http://pubrs.com/](http://pubrs.com/) 
@@ -75,8 +76,29 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.bai
 
 Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw](https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw?pwd=MCAE), Extraction Code: MCAE
 
+## Citation
+If you find this project useful, please consider citing:
+```bibtex
+@article{chen2025MCAE,
+  title={Mask Clustering-Based Annotation Engine for Large-Scale Submeter Land Cover Mapping},
+  author={Chen, Hao and Xu, Fang and Saleh, Tamer and Hao, Weifeng and Xia, Gui-Song},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-15},
+  publisher={IEEE},
+}
 
-<br><br>
+@article{chen2025MCAE,
+  title={Mask Clustering-Based Annotation Engine for Large-Scale Submeter Land Cover Mapping},
+  author={Chen, Hao and Xu, Fang and Saleh, Tamer and Hao, Weifeng and Xia, Gui-Song},
+  journal={arXiv:2509.24374},
+  year={2025}
+}
+```
+
+<br>
 > ⚠️ **使用须知 / Usage Notice**  
 > 如使用、引用、转载、转存以上任何数据，请标注出处。如有疑问请联系 chenhao20 [AT] whu.edu.cn。  
 > Please acknowledge the source when using, citing, reproducing, or redistributing any of the above data. For inquiries, contact chenhao20 [AT] whu.edu.cn.
