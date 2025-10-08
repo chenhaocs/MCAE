@@ -1,7 +1,7 @@
 
 <h1 align="center">Mask Clustering-based Annotation Engine for Large-Scale Submeter Land Cover Mapping (MCAE)</h1>
 
-# Mapping result display and comparison
+## (1) Mapping result display and comparison
 
 - 0.6-meter MCAE-based land cover maps: [http://pubrs.com/MCAE/](http://pubrs.com/MCAE/) or [http://pubrs.com/](http://pubrs.com/) 
 
@@ -19,7 +19,7 @@
 > [1] Li Z, He W, Cheng M, et al. SinoLC-1: The first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data[J]. Earth System Science Data Discussions, 2023, 2023: 1-38.
 
 
-# HiCity-Map: MCAE-based land cover maps with 0.6-meter resolution
+## (2) HiCity-Map: MCAE-based land cover maps with 0.6-meter resolution
 
 Download the HiCity-Map and open it directly in QGIS. The color palette has already been embedded in the land cover map:
 
@@ -35,7 +35,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw](https://pan.bai
 - **Extensive geographic coverage**: Covers **five major cities in China** — **Beijing**, **Tianjin**, **Shanghai**, **Chengdu**, and **Guangzhou**.
 
 
-# HiCity-LC: 0.6-meter dataset with dense+sparse mask annotations
+## (3) HiCity-LC: 0.6-meter dataset with dense+sparse mask annotations
 
 Download link for the HiCity-LC (continuously updated):
 
@@ -71,13 +71,12 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.bai
 </div>
 
 
-# 0.6-meter resolution images covering five cities
+## (4) 0.6-meter resolution images covering five cities
 
 Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw](https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw?pwd=MCAE), Extraction Code: MCAE
 
 
 <br><br>
-
 > ⚠️ **使用须知 / Usage Notice**  
 > 如使用、引用、转载、转存以上任何数据，请标注出处。如有疑问请联系 chenhao20 [AT] whu.edu.cn。  
 > Please acknowledge the source when using, citing, reproducing, or redistributing any of the above data. For inquiries, contact chenhao20 [AT] whu.edu.cn.
