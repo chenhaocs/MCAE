@@ -76,6 +76,34 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.bai
 
 Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw](https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw?pwd=MCAE), Extraction Code: MCAE
 
+
+## (5) Expert Annotation
+
+### Demo for Mask Clustering-based Annotation
+
+[http://pubrs.com/ref5m/](http://pubrs.com/ref5m/)
+<div align="center">
+  <img src="./fig/mask-cluster-ann.png" alt="Sparse ann" width="80%">
+</div>
+
+In the top row of buttons on the interface, the numbers represent the neighborhood range IDs of the clustering units.
+
+In the second row, the button labels follow the format “x–y”, where **x** denotes the cluster index within the neighborhood, and **y** represents the class ID assigned to each cluster based on the classification model’s prediction:
+1 – Bareland, 2 – Rangeland, 3 – Developed, 4 – Road, 5 – Tree, 6 – Water, 7 – Agriculture, 8 – Building, 9 – Others.
+
+
+### Demo for Mask Classification Result Refinement
+
+[http://pubrs.com/ref4p/](http://pubrs.com/ref4p/)
+<div align="center">
+  <img src="./fig/refinement.png" alt="Sparse ann" width="80%">
+</div>
+
+The interface displays the image on the left, the corresponding mask classification results in the center, and the annotation list on the right.
+
+First, left-click on the image on the left to select it. Then, in the center panel showing the classification results, you can left-click to annotate specific regions. The annotated results will be listed in the right panel for category correction.
+
+
 ## Citation
 If you find this project useful, please consider citing:
 ```bibtex
