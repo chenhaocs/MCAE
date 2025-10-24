@@ -14,6 +14,7 @@
 **MCAE**: 
 ![0.6-meter MCAE-based Land Cover Map](./fig/LC-MCAE.png "0.6-meter MCAE-based Land Cover Map")
 
+
 **SinoLC-1**[1]:
 ![1-meter SinoLC-1 Land Cover Map](./fig/LC-SinoLC-1.png "1-meter SinoLC-1 Land Cover Map")
 
@@ -83,7 +84,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw](https://pan.bai
 
 [http://pubrs.com/ref5m/](http://pubrs.com/ref5m/)
 <div align="center">
-  <img src="./fig/mask-cluster-ann.png" alt="Sparse ann" width="80%">
+  <img src="./fig/mask-cluster-ann.png" alt="Sparse ann" width="100%">
 </div>
 
 In the top row of buttons on the interface, the numbers represent the neighborhood range IDs of the clustering units.
@@ -96,7 +97,7 @@ In the second row, the button labels follow the format “x–y”, where **x** 
 
 [http://pubrs.com/ref4p/](http://pubrs.com/ref4p/)
 <div align="center">
-  <img src="./fig/refinement.png" alt="Sparse ann" width="80%">
+  <img src="./fig/refinement.png" alt="Sparse ann" width="100%">
 </div>
 
 The interface displays the image on the left, the corresponding mask classification results in the center, and the annotation list on the right.
