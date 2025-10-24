@@ -89,7 +89,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw](https://pan.bai
 
 In the top row of buttons on the interface, the numbers represent the neighborhood range IDs of the clustering units.
 
-In the second row, the button labels follow the format “x–y”, where **x** denotes the cluster index within the neighborhood, and **y** represents the class ID assigned to each cluster based on the classification model’s prediction:
+In the second row, the button labels follow the format "x–y", where **x** denotes the cluster index within the neighborhood, and **y** represents the class ID assigned to each cluster based on the classification model's prediction:
 1 – Bareland, 2 – Rangeland, 3 – Developed, 4 – Road, 5 – Tree, 6 – Water, 7 – Agriculture, 8 – Building, 9 – Others.
 
 
@@ -104,6 +104,7 @@ The interface displays the image on the left, the corresponding mask classificat
 
 First, left-click on the image on the left to select it. Then, in the center panel showing the classification results, you can left-click to annotate specific regions. The annotated results will be listed in the right panel for category correction.
 
+> These are two publicly accessible demos. If a user selects **"Dump"** or **"Save"**, the annotations will be saved. When the next user opens the demo, all previous annotation history will be displayed by default.
 
 ## Citation
 If you find this project useful, please consider citing:
