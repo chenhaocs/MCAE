@@ -105,6 +105,8 @@ The interface displays the image on the left, the corresponding mask classificat
 First, left-click on the image on the left to select it. Then, in the center panel showing the classification results, you can left-click to annotate specific regions. The annotated results will be listed in the right panel for category correction.
 
 > These are two publicly accessible demos. If a user selects **"Dump"** or **"Save"**, the annotations will be saved. When the next user opens the demo, all previous annotation history will be displayed by default.
+> Excessive or concurrent annotations from multiple users may slow down loading and could even cause the backend data service to crash.
+
 
 ## Citation
 If you find this project useful, please consider citing:
