@@ -78,7 +78,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.bai
 Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw](https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw?pwd=MCAE), Extraction Code: MCAE
 
 
-## (5) Expert Annotation
+## (5) Expert Annotation GUI
 
 ### Demo for Mask Clustering-based Annotation
 
