@@ -104,7 +104,7 @@ The interface displays the image on the left, the corresponding mask classificat
 
 First, left-click on the image on the left to select it. Then, in the center panel showing the classification results, you can left-click to annotate specific regions. The annotated results will be listed in the right panel for category correction.
 
-> To prevent excessive annotation records from causing slow loading, the backend service in this demo does not retain historical annotation data when users click "Dump" or "Save."
+> To prevent excessive annotation records from causing slow loading, the backend service in this demo does not retain historical annotation data when users click "Dump" or "Save".
 
 
 ## Citation
