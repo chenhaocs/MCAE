@@ -108,7 +108,7 @@ First, left-click on the image on the left to select it. Then, in the center pan
 
 
 ## Citation
-If you find this project useful, please consider citing:
+If you find this project useful and use it in yout project, please cite following papers:
 ```bibtex
 @article{chen2025MCAE,
   title={Mask Clustering-Based Annotation Engine for Large-Scale Submeter Land Cover Mapping},
@@ -129,7 +129,8 @@ If you find this project useful, please consider citing:
 }
 ```
 
-> ⚠️ **使用须知 / Usage Notice**  
-> 如使用、引用、转载、转存以上任何数据，请标注出处。如有疑问请联系 chenhao20 [AT] whu.edu.cn。  
-> Please acknowledge the source when using, citing, reproducing, or redistributing any of the above data. For inquiries, contact chenhao20 [AT] whu.edu.cn.
+⚠️ **使用须知 / Usage Notice:**
+- **如使用、引用、转载、转存以上任何数据，请标注出处。如有疑问请联系 chenhao20 [AT] whu.edu.cn。** 
+- **Please acknowledge the source when using, citing, reproducing, or redistributing any of the above data. For inquiries, contact chenhao20 [AT] whu.edu.cn.**
 
+[https://github.com/chenhaocs/MCAE/](https://github.com/chenhaocs/MCAE/)
