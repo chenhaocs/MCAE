@@ -29,7 +29,7 @@ Download the HiCity-Map and open it directly in QGIS. The color palette has alre
 
 Download link for the HiCity-Map (continuously updated and expanded):
 
-Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw](https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp), Extraction Code: fjvp
+Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp](https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw?pwd=fjvp)
 
 **Key Characteristics of the Land Cover Maps:**
 
@@ -41,7 +41,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1RgeegxBdV9o-NSSLaDnCDw](https://pan.bai
 
 Download link for the HiCity-LC (continuously updated):
 
-Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA?pwd=qr71), Extraction Code: qr71
+Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA?pwd=qr71](https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA?pwd=qr71)
 
 **Key Characteristics of the Dataset:**
 
@@ -75,7 +75,7 @@ Baidu Netdisk: [https://pan.baidu.com/s/1MgXymLIg3sYPhfC83So5IA](https://pan.bai
 
 ## (4) 0.6-meter resolution images covering five cities
 
-Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw](https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw?pwd=MCAE), Extraction Code: MCAE
+Baidu Netdisk: [https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw?pwd=MCAE](https://pan.baidu.com/s/1Prd-WSZZgW_lafEd49P_Cw?pwd=MCAE)
 
 
 ## (5) Expert Annotation GUI
